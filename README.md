@@ -5,7 +5,7 @@ or atleast it give a proof of concept, towards the pontential, that i did, have 
 
 While the [DogDisplay Overivew Preface](https://github.com/mittons/DogDisplayOverview?tab=readme-ov-file#welcome-to-the-dogdisplayoverview-repository) (which is irrelevant and you can skip to next line if you want) is meant to detail the structure quickly, offering a simple entry point without complexity, giving enough information as quickly for the reader to decide if they want to read further, the clarity and quicknes coming from an express desire to serve the time and need of others.
 
-The [DogDisplay Overview Introduction](https://github.com/mittons/DogDisplayOverview/blob/ae18681446f5a7f31ec3bf0a8b235fa4d3c731bb/README.md#introduction) as commited on <ins><b>January 13, 2024, 19:03PM<b></ins>, already expresses some of the intentions of this project.
+The [DogDisplay Overview Introduction](https://github.com/mittons/DogDisplayOverview/blob/ae18681446f5a7f31ec3bf0a8b235fa4d3c731bb/README.md#introduction) as commited on `January 13, 2024, 19:03PM`, already expresses some of the intentions of this project.
 
 1.  "this repository serves as an simplified entry point"
   - An entry point that should, suggested derived/furher clarified documents exist, but abstract the info to words/terms short sentence.
