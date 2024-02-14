@@ -1,4 +1,96 @@
-# PoCofOneIntent
+Skip to content
+mittons
+/
+PoCofOneIntent
+
+Type / to search
+
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Editing README.md in PoCofOneIntent
+BreadcrumbsPoCofOneIntent
+/
+README.md
+in
+main
+
+Edit
+
+Preview
+Indent mode
+
+Spaces
+Indent size
+
+2
+Line wrap mode
+
+Soft wrap
+Editing README.md file contents
+Selection deleted
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
 
 This repository demonstrates that I expressed a very specific, razor sharp, intent in the introdcutory text of my [DogDispalyOverivew](https://github.com/mittons/DogDisplayOverview?tab=readme-ov-file#introduction), 
 or atleast it give a proof of concept, towards the pontential, that i did, have extermely focused, premdidated intent. When I wrote that text.
@@ -30,12 +122,14 @@ And even more complex on February 11
 ```
 It refers to 4 different files across version history in the the observed project repos, clear timestamping of commits.. all of them a while after I made the statement DogOverivewIntro statemennt:
 
-2. "portfolio consisting of a series of projects that present both:"
-  2. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
-      - I want to note that I did not what I would learn, but I knew, and was `intent`, that given my constraints.. it would become clear.
-        - I knew with `intent` that I would learn something, and that I would be able show case it wihout any doubt if I kept transparent logs, and kept track of what I was learning.
-3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
-        - 
+```
+"portfolio consisting of a series of projects that present both:"
+  ii. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
+```
+- I want to note that I did not what I would learn, but I knew, and was `intent`, that given my constraints.. it would become clear.
+  - I knew with `intent` that I would learn something, and that I would be able show case it wihout any doubt if I kept transparent logs, and kept track of what I was learning.
+```
+⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
 ```
  I have created to show a steady increase in bash skill (actually, for transparency I have not aquired those skills yet! 
 I can only utilize them as an asset that I understand, but I cant recreate them from memory, nor understanding but 90% of the bash syntax.I do, howeever I understand the operations and can reliably utulize them as an asset)!
@@ -52,3 +146,8 @@ I will use the data generated from the projects for that: Specifically the learn
 [DoggoDec19 1.0+](https://github.com/mittons/doggoDec19)
 
 </details>
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+No file chosen
+Attach files by dragging & dropping, selecting or pasting them.
+Editing PoCofOneIntent/README.md at main · mittons/PoCofOneIntent 
