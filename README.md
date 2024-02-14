@@ -8,15 +8,15 @@ While the [DogDisplay Overivew Preface](https://github.com/mittons/DogDisplayOve
 The [DogDisplay Overview Introduction](https://github.com/mittons/DogDisplayOverview/blob/ae18681446f5a7f31ec3bf0a8b235fa4d3c731bb/README.md#introduction) as commited on `January 13, 2024, 19:03PM`, already expresses some of the intentions of this project.
 
 1.  "this repository serves as an simplified entry point"
-  - An entry point that should, suggested derived/furher clarified documents exist, but abstract the info to words/terms short sentence.
-    - The entroy point should, like any other layer provide only a small increase in the complexity of information, beyond the last (unless explicitly stated), preventing undexpected info overload when a person dives into further definitions. This ensures that if at any point we offer a space that offers too much info overload for a person, more than a person concents to, it will not be to great of a breach of concent, and opting out of reading more of that document should be simple, with minimum effecs.
-2. "portfolio consisting of a series of projects that present:"
-  a. a snapshot of my current active skillset
-  b. "as well as demonstrating my potential capacity for learning and growth over a short period of time.
-3. "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
-4. "Personally, this repository serves as a way to review and document what I have learnt during this time as well as to review and refine my learning processes."
-5. "I hope this portfolio also demonstrates my passion for learning, growth and building stuff!"
-6. "I also really like transparency!"
+  - 🚪 An entry point that should, suggested derived/furher clarified documents exist, but abstract the info to words/terms short sentence.
+    - ⚖️ The entroy point should, like any other layer provide only a small increase in the complexity of information, beyond the last (unless explicitly stated), preventing undexpected info overload when a person dives into further definitions. This ensures that if at any point we offer a space that offers too much info overload for a person, more than a person concents to, it will not be to great of a breach of concent, and opting out of reading more of that document should be simple, with minimum effecs.
+2. "portfolio consisting of a series of projects that present both:"
+  a. 🎯 A snapshot of my current active skillset
+  b. 🔁 A developing version control history emonstrating my potential capacity for learning and growth over a short period of time.
+3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
+4. 📖✏️ "Personally, this repository serves as a way to review and document what I have learnt during this time as well as to review and refine my learning processes."
+5. ❤️ "I hope this portfolio also demonstrates my passion for learning, growth and building stuff!"
+6. ☀️ "I also really like transparency!"
 
 
 
