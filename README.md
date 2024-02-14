@@ -11,9 +11,7 @@ The [DogDisplay Overview Introduction](https://github.com/mittons/DogDisplayOver
   - 🚪 An entry point that should, suggested derived/furher clarified documents exist, but abstract the info to words/terms short sentence.
     - ⚖️ The entry point should, like any other layer provide only a small increase in the complexity of information, beyond the last (unless explicitly stated), preventing undexpected info overload when a person dives into further definitions. This ensures that if at any point we offer a space that offers too much info overload for a person, more than a person concents to, it will not be to great of a breach of concent, and opting out of reading more of that document should be simple, with minimum effecs.
 2. "portfolio consisting of a series of projects that present both:"
-
   1. 🎯 A snapshot of my current active skillset
-  
   2. 🔁 A developing version control history emonstrating my potential capacity for learning and growth over a short period of time.
 3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
 4. 📖✏️ "Personally, this repository serves as a way to review and document what I have learnt during this time as well as to review and refine my learning processes."
