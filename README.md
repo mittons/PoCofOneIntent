@@ -21,9 +21,8 @@ The [DogDisplay Overview Introduction](https://github.com/mittons/DogDisplayOver
 
 
 ## An exmple
-
 ### Bash learning curve
-The fllowing document demonstrates my bash learning curve [BashLearningCurve](https://github.com/mittons/BashLearningCruve/README.md).
+The fllowing document demonstrates my bash learning curve [BashLearningCurve](https://github.com/mittons/BashLearningCruve/blob/main/README.md).
 
 
 
