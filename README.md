@@ -34,7 +34,7 @@ It refers to 4 different files across version history in the the observed projec
   2. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
       - I want to note that I did not what I would learn, but I knew, and was `intent`, that given my constraints.. it would become clear.
         - I knew with `intent` that I would learn something, and that I would be able show case it wihout any doubt if I kept transparent logs, and kept track of what I was learning.
-  - 3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
+3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
         - 
 ```
  I have created to show a steady increase in bash skill (actually, for transparency I have not aquired those skills yet! 
