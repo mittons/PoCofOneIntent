@@ -28,9 +28,10 @@ This files show incremental skill gains with bash beginnin on January 19,
 Being more complex on January 29 and
 And even more complex on February 11
 ```
-It refers to 4 different files across version history in the the observed project repos, clear timestamping of commits.. all of them a while after I made the statement DogOverivewIntro statemennt: 
-  2. "portfolio consisting of a series of projects that present both:"
-    3. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
+It refers to 4 different files across version history in the the observed project repos, clear timestamping of commits.. all of them a while after I made the statement DogOverivewIntro statemennt:
+
+2. "portfolio consisting of a series of projects that present both:"
+  2. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
       - I want to note that I did not what I would learn, but I knew, and was `intent`, that given my constraints.. it would become clear.
         - I knew with `intent` that I would learn something, and that I would be able show case it wihout any doubt if I kept transparent logs, and kept track of what I was learning.
   - 3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
