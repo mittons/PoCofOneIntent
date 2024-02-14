@@ -12,7 +12,7 @@ The [DogDisplay Overview Introduction](https://github.com/mittons/DogDisplayOver
     - ⚖️ The entry point should, like any other layer provide only a small increase in the complexity of information, beyond the last (unless explicitly stated), preventing undexpected info overload when a person dives into further definitions. This ensures that if at any point we offer a space that offers too much info overload for a person, more than a person concents to, it will not be to great of a breach of concent, and opting out of reading more of that document should be simple, with minimum effecs.
 2. "portfolio consisting of a series of projects that present both:"
     1. 🎯 A snapshot of my current active skillset
-    2. 🔁 A developing version control history emonstrating my potential capacity for learning and growth over a short period of time.
+    2. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
 3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
 4. 📖✏️ "Personally, this repository serves as a way to review and document what I have learnt during this time as well as to review and refine my learning processes."
 5. ❤️ "I hope this portfolio also demonstrates my passion for learning, growth and building stuff!"
@@ -28,7 +28,16 @@ This files show incremental skill gains with bash beginnin on January 19,
 Being more complex on January 29 and
 And even more complex on February 11
 ```
-It refers to 4 different files across version history in the repositories I have created to show a steady increas in bash skill (actually, for transparency I have not aquired those skills yet! I can only utilize them as an asset that I understand, but im cant recreate them from memotry, not understanding if the bash syntach, even though I understand the operations)!
+It refers to 4 different files across version history in the the observed project repos, clear timestamping of commits.. all of them a while after I made the statement DogOverivewIntro statemennt: 
+  2. "portfolio consisting of a series of projects that present both:"
+    3. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
+      - I want to note that I did not what I would learn, but I knew, and was `intent`, that given my constraints.. it would become clear.
+        - I knew with `intent` that I would learn something, and that I would be able show case it wihout any doubt if I kept transparent logs, and kept track of what I was learning.
+  - 3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
+        - 
+```
+ I have created to show a steady increase in bash skill (actually, for transparency I have not aquired those skills yet! 
+I can only utilize them as an asset that I understand, but I cant recreate them from memory, nor understanding but 90% of the bash syntax.I do, howeever I understand the operations and can reliably utulize them as an asset)!
 <details><summary></summary>
 
 <br>
