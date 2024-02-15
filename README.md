@@ -69,9 +69,9 @@ I am publically reviewing and reflecting on my learning process in a very transp
 
 
 
-## [Encore](## ""Definition of rhe PoC of PoC of Intent of PoC")
+## Encore
 
-Lets do an encore:
+[Lets do an encore:]((## ""Definition of rhe PoC of PoC of Intent of PoC")
 
 ```
 1. 🐇 "this repository serves as an simplified entry point"
