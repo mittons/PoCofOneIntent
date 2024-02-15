@@ -102,7 +102,7 @@ I have capitlized upon the resources created through multiple commits to show sh
 What is this, if not reflection and review, on multiple levels? And publicly documented to boot!
 
 ```
-5. ❤️ "I hope this portfolio also demonstrates my passion for learning, growth and building stuff!"
+5. ♥️👑♥️ "I hope this portfolio also demonstrates my passion for learning, growth and building stuff!"
 ```
 I demonstrated growth my bash learning process, showing my capability to build up my skill. And then built upon my stated intent to learn, grow and build stuff, using the domucmentation and version control history I had aquired to verify my that I acted on the intent. On top of this, I am building upon my experimentations, and wierd experimental commits, to give contrast to the parts that were actually refined to a standardized crisp and most definitely, every, single, word was thought out and provided with so much intensity that each word felt like a [shockwave](## "Cryptic foreshawdoing alt text, that will get linked to what future thing it reference, one that is out.")
 
