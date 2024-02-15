@@ -70,7 +70,7 @@ I am publically reviewing and reflecting on my learning process in a very transp
 
 ## Encore
 
-[Lets do an encore:]((## ""Definition of rhe PoC of PoC of Intent of PoC")
+[Lets do an encore:]((## "Definition of rhe PoC of PoC of Intent of PoC")
 
 ```
 1. 🐇 "this repository serves as an simplified entry point"
