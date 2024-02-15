@@ -40,8 +40,7 @@ This one is too vague. The latest version of each code repository gives a snapsh
 2. 📚 "portfolio consisting of a series of projects that present both:"
   ii. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
 ```
-- I want to note that I did not know what I would learn, but I knew, and was `intent`, that given my the contrtaints/job descriptions I was seeking to clarify and fulfil.. it would become clear.
-  - I knew with `intent` that I would learn something, and that I would be able show case it wihout any doubt if I kept transparent logs, and kept track of what I was learning.
+- I want to note that I did not know what I would learn, but I knew that I could clarify it, reflect upon it and learn it. Even though I had not explored what I would learn I could define it and abstract terms and seek it with `intent`. (Plus, given that contrtaints/job descriptions have been looking at seem to have a fairly standard set of requirements, it was just a matter of learning it in a strategic way). I knew with I was on the right track, even thoguh I hadnt explored it, and I could act on it `intent`, kwonig that I would be able showcase my learning and growth wihout any doubt if I kept transparent logs what I was learning and logs of my applications of what I was learning, mistakes and successes, the good, the bad, the ugly and the wierd.
 ```
 3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
 ```
