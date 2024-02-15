@@ -97,9 +97,18 @@ In this document, I am taking what I have exprienced, reflecting upon it and lea
 I have capitlized upon the resources created through multiple commits to show show not just my intent, in learning, and my intent towards continously/consistently (but not constantly) building upon what I have. I have spent time, energy, and effort into gaining access to the level of complexities in bash scripts I used as example in the PoC text in the first section. And gaining understanding of them to properly use them. And I have the capability to [aquire them into my own personal skill set as well](## "Again, will be given a PoC by recounting my experiences of the of dog projects from Dec16-Dec19 at some point")
 
 ```
-4. 📖✏️ "Personally, this repository serves as a way to review and document what I have learnt during this time as well as to review and refine my learning processes."
+4. 🔍 "Personally, this repository serves as a way to review and document what I have learnt during this time as well as to review and refine my learning processes."
 ```
+What is this, if not reflection and review, on multiple levels? And publicly documented to boot!
 
+```
+5. ❤️ "I hope this portfolio also demonstrates my passion for learning, growth and building stuff!"
+```
+I demonstrated growth my bash learning process, showing my capability to build up my skill. And then built upon my stated intent to learn, grow and build stuff, using the domucmentation and version control history I had aquired to verify my that I acted on the intent. On top of this, I am building upon my experimentations, and wierd experimental commits, to give contrast to the parts that were actually refined to a standardized crisp and most definitely, every, single, word was thought out and provided with so much intensity that each word felt like a [shockwave](## "Cryptic foreshawdoing alt text, that will get linked to what future thing it reference, one that is out.")
 
-  - 🕳️ An entry point that should, suggest derived/furher clarified documents exist (And even link to), but abstract the info nit short statements.
-    - ⚖️ The entry point should, like any other layer provide only a small increase in the complexity of information, beyond the last (unless explicitly stated), preventing undexpected info overload when a person dives into further definitions. This ensures that if at any point we offer a space that offers too much info overload for a person, more than a person concents to, it will not be to great of a breach of concent, and opting out of reading more of that document should be simple, with minimum effecs.
+I have a deep passion for learning, and it requires exploration. Exploration entails mistakes. We can not learn the limits without passing them in some ways. We can only approach it carefully, making sure we learn what we must without human cost, or cost to the environment around us. There is so much potential for that in technology.. and once we get past this infantile phase of humanity. Perhaps we can do exponentailly bigger things, *together*.
+
+```
+6. 🕳️ "I also really like transparency!"
+```
+I am writing my thoughts in clear text! And meta-reflection thoughts as well? Do you want to know more? Find what I have hidden amongst the data! Its not much. Not yet al east. But I do like keeping things out in the open. Without actively restricting anyones choises!
