@@ -31,13 +31,13 @@ It refers to 4 different files across version history in the the observed projec
 
 
 ```
-2. "portfolio consisting of a series of projects that present both:"
+2. 📚 "portfolio consisting of a series of projects that present both:"
   i. 🎯 A snapshot of my current active skillset
 ```
 This one is too vague. The latest version of each code repository gives a snapshot of my current skills in what specific technological I am practicing there. But in other areas, where it is not apparent (nor anything I can prove), some areas I'm just using my active skills to a very basic degree, areas of experties that no one has seen verification off. But its important to note, that I am seeking a career as a software developer, and that is the skillset that should be under focus. In may ways.. I am a beginner here. But with a lot of hidden transferrable knowledge from areas where I have reach further experties.
 
 ```
-2. "portfolio consisting of a series of projects that present both:"
+2. 📚 "portfolio consisting of a series of projects that present both:"
   ii. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
 ```
 - I want to note that I did not know what I would learn, but I knew, and was `intent`, that given my the contrtaints/job descriptions I was seeking to clarify and fulfil.. it would become clear.
@@ -80,13 +80,13 @@ I am publically reviewing and reflecting on my learning process in a very transp
 I have gone through the whole intro section in this document. And delved further into each point. By contrast, it becomes apparent that my intention of providing a simple entry point in the public facing intro section, is in fact on point. Any part of the front facing part of the repository should be simplified, reflected upon in further detail an nuance in lower layer sub-documents and/or other repositories, recursively adding the level of detail and, understanding and depth. Givin anyone a chance to opt out before they delve too deep down the rabbit hole. Where things might actually start becoming more wild and unexpected 😼
 
 ```
-2. "portfolio consisting of a series of projects that present both:"
+2. ♠️♥️♣️♦️ "portfolio consisting of a series of projects that present both:"
   i. 🕰️ A snapshot of my current active skillset
 ```
 Being able to reflect, on mutliple levels, is also a part of my active skillset.
 
 ```
-2. "portfolio consisting of a series of projects that present both:"
+2. ♠️♥️♣️♦️ "portfolio consisting of a series of projects that present both:"
   ii. 🗝️ A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
 ```
 In this document, I am taking what I have exprienced, reflecting upon it and learning from it.
@@ -111,4 +111,4 @@ I have a deep passion for learning, and it requires exploration. Exploration ent
 ```
 6. 🕳️ "I also really like transparency!"
 ```
-I am writing my thoughts in clear text! And meta-reflection thoughts as well? Do you want to know more? Find what I have hidden amongst the data! Its not much. Not yet al east. But I do like keeping things out in the open. Without actively restricting anyones choises!
+I am writing my thoughts in clear text! And meta-reflection thoughts as well? Do you want to know more? Find what I have hidden amongst the data! Its not much. Not yet at least. But I do like keeping things out in the open. Without actively restricting anyones choises!
