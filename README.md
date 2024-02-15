@@ -40,23 +40,23 @@ This one is too vague. The latest version of each code repository gives a snapsh
 2. 📚 "portfolio consisting of a series of projects that present both:"
   ii. 🔁 A developing version control history demonstrating my potential capacity for learning and growth over a short period of time.
 ```
-- I want to note that I did not know what I would learn, but I knew that I could clarify it, reflect upon it and learn it. Even though I had not explored what I would learn I could define it and abstract terms and seek it with `intent`. (Plus, given that contrtaints/job descriptions have been looking at seem to have a fairly standard set of requirements, it was just a matter of learning it in a strategic way). I knew with I was on the right track, even thoguh I hadnt explored it, and I could act on it `intent`, kwonig that I would be able showcase my learning and growth wihout any doubt if I kept transparent logs what I was learning and logs of my applications of what I was learning, mistakes and successes, the good, the bad, the ugly and the wierd.
+I want to note that I did not know what I would learn, but I knew that I could clarify it, reflect upon it and learn it. Even though I had not explored what I would learn I could define it and abstract terms and seek it with `intent`. (Plus, given that contrtaints/job descriptions have been looking at seem to have a fairly standard set of requirements, it was just a matter of learning it in a strategic way). I knew with I was on the right track, even thoguh I hadnt explored it, and I could act on it `intent`, kwonig that I would be able showcase my learning and growth wihout any doubt if I kept transparent logs what I was learning and logs of my applications of what I was learning, mistakes and successes, the good, the bad, the ugly and the wierd.
 ```
 3. ⚙️➕🌱 "This repository as well as the projects should also demonstrate my ability to incrementally leverage the technology, understanding and resources that I have access to, in order to achieve both added value and further potential for growth."
 ```
-- Feel like I showed demonstrated how I was able to leverage what I had access to in larger amounts, over the course of the timeline presented in [BashLearningCurve](https://github.com/mittons/BashLearningCruve/blob/main/README.md)
+Feel like I showed demonstrated how I was able to leverage what I had access to in increasing amounts, over the course of the timeline presented in [BashLearningCurve](https://github.com/mittons/BashLearningCruve/blob/main/README.md)
 
 ```
 4. 📖✏️ "Personally, this repository serves as a way to review and document what I have learnt during this time as well as to review and refine my learning processes."
 ```
 
-I stated my intent, and each key I press, each word, term, phrase, sentence, paragraph that I add only furthers the proof of concoept for this statement. Reflecting on what I have learnt. And reviewing my learning processes. Its both applicable since the intro it self is code, technology, subset of my intent and my learning process.
+I stated my intent on this, review, reflection, and with each key I press, each word, term, phrase, sentence, paragraph that I add, it only furthers the proof of concept for this statement. Reflecting on what I have learnt. And reviewing my learning processes. The intro to this repository is in itself code, a technology, subset of my intent and my learning process.
 
 ```
 5. ❤️ "I hope this portfolio also demonstrates my passion for learning, growth and building stuff!"
 ```
 
-If needed, look at the history, and the development beween the linked files in [BashLearningCurve](https://github.com/mittons/BashLearningCruve/blob/main/README.md), it could be.. potentially.. point to a learning curve, growth, and building upon previous knowledge. It's too simple for me to call it a strong argument for my `passion for learning, growth and bulding stuff!`.
+If needed, look at the history, and the development beween the linked files in [BashLearningCurve](https://github.com/mittons/BashLearningCruve/blob/main/README.md), it could suggest there having been a learning curve, growth, and building upon previous knowledge. But it's too simple for me to call it a strong argument for my `passion for learning, growth and bulding stuff!`. I will need to refine this file later as I expand and reflect on more of the skills I have aquired, as well as the strategies I have applied.
 
 ```
 6. ☀️ "I also really like transparency!"
