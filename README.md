@@ -69,7 +69,7 @@ I am publically reviewing and reflecting on my learning process in a very transp
 
 
 
-## Encore
+## [Encore](## ""Definition of rhe PoC of PoC of Intent of PoC")
 
 Lets do an encore:
 
